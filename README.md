@@ -53,12 +53,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DavideDaCol/DavideDaCol/output/snake.svg" alt="Snake animation" />
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=davixgaming&count=5)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=davixgaming&count=5" />
+</p>
 
 ###
