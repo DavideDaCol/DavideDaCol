@@ -59,8 +59,6 @@
 
 ###
 
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=davixgaming&count={count})
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=davixgaming&count=5)
 
 ###
